@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sop>
+    <intro>
+        
+    </intro>
+    <sessions>
+        <session>
+            <url>summer.html</url>
+            <sessiontitle>Summer Sessions at Virginia Tech</sessiontitle>
+            <welcome>This is summer!!</welcome>
+            <tasks>
+                <task>
+                    <tasktitle></tasktitle>
+                    <staging></staging>
+                    <ingredients>
+                        <ingredient>
+                            <item>A computer</item>
+                        </ingredient>
+                       
+                    </ingredients>
+                    <steps>
+                        <step>
+                            <action>Close the door</action>
+                        </step>
+                    </steps>
+                  
+                    <summary></summary>
+                </task>
+            </tasks>
+        </session>
+    </sessions>
+    <session>
+        <url>winter.html</url>
+        <sessiontitle>Winter Sessions at Virginia Tech</sessiontitle>
+        <welcome>This is winter!!</welcome>
+        <tasks>
+            
+        </tasks>
+    </session>
+    </sessions>
+    
+    
+</sop>
